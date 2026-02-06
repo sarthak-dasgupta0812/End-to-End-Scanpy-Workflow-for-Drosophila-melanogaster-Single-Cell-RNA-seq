@@ -1,0 +1,2 @@
+# End-to-End-Scanpy-Workflow-for-Drosophila-melanogaster-Single-Cell-RNA-seq
+This repository implements a Scanpy-based single-cell RNA-seq pipeline for Drosophila melanogaster, covering QC, normalization, HVG selection, PCA, neighborhood graph construction, Leiden clustering, and marker detection. The objective was of  a cell-type annotation using top three marker genes per cluster with end-to-end runtime under 20 seconds.
